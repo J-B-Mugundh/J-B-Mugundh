@@ -62,7 +62,8 @@
 
 <div class="stats" align="center">
 <a align="center" href="https://github.com/J-B-Mugundh/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=J-B-Mugundh&show_icons=true&theme=algolia" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=J-B-Mugundh&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=algolia" />
 </a>
 <br><br>
 <a align="center" href="https://github.com/J-B-Mugundh/convoychat">
