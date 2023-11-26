@@ -61,18 +61,20 @@
 <br><br>
 
 <div class="stats" align="center">
-<a align="center" href="https://github.com/J-B-Mugundh/github-readme-stats">
 
+<div align="center" >
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=J-B-Mugundh&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=algolia" />
-</a>
+</div>
+
 <br><br>
-<a align="center" href="https://github.com/J-B-Mugundh/convoychat">
+
+<div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-B-Mugundh&show_icons=true&theme=algolia&card_width=500" />
-</a>
+</div>
+
 <br><br>
 
-
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=algolia" alt="GitHub Streak" /></a>
+<div align="center"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=algolia" alt="GitHub Streak" /></div>
 
 </div>
 
