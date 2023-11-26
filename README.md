@@ -63,20 +63,22 @@
 <div class="stats" align="center">
 
 <div align="center" >
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=J-B-Mugundh&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=algolia" />
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J-B-Mugundh&show_icons=true&count_private=true&theme=radical" />
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-B-Mugundh&show_icons=true&theme=algolia&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-B-Mugundh&show_icons=true&theme=radical&card_width=500" />
 </div>
 
 <br><br>
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=algolia" alt="GitHub Streak" /></div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=radical" alt="GitHub Streak" /></div>
 
 </div>
+
+<br><br>
 
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJ-B-Mugundh10%7D/count.svg" alt="visitor badge"/></p>
@@ -84,7 +86,7 @@
 
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
-<img src="https://readme-jokes.vercel.app/api?theme=algolia" alt="Jokes Card" /></p>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
 
  <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
 
