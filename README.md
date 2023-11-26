@@ -57,8 +57,8 @@
 
 <!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
 
-<img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
-<br><br>
+<!-- <img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
+<br><br> -->
 
 <div class="stats" align="center">
 
