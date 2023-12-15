@@ -10,13 +10,6 @@
 <h4 align="center">Hello world👋 I'm Mugundh J B 😄</h4>
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Madras Institute of Technology</h4>
 
-<p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=008FF7F&size=36&center=true&vCenter=true&width=600%&lines=Full+Stack+Web+Developer;Competitive+Programmer;Tech+Enthusiast;Anime+Lover;"/>
-<br>
-
-
-
-
 <img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
