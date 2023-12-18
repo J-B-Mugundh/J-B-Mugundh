@@ -7,9 +7,12 @@
 </p> -->
 
 
-<h4 align="center">Hello world👋 I'm Mugundh J B 😄</h4>
+<h4 align="center">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mugundh J B 😄</h4>
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Madras Institute of Technology</h4>
-<br><br>
+<br>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Engineer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=50"></a>
+</p>
 
 <img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -47,7 +50,7 @@
 
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h2>
 
 <!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
 
@@ -69,6 +72,7 @@
 <br><br>
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=radical" alt="GitHub Streak" /></div>
+
 
 </div>
 
