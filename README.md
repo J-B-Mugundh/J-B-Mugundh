@@ -11,7 +11,7 @@
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Madras Institute of Technology</h4>
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Engineer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Engineer;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
 </p>
 
 <img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
