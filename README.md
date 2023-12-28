@@ -25,8 +25,10 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/J-B-Mugundh](https://github.com/J-B-Mugundh)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/J-B-Mugundh)
 
+- 📝 Check out my portfolio at [Portfolio](https://j-b-mugundh.github.io/)
+  
 - 💬 Ask me about **React js, Node js, MySQL, MongoDB**
 
 - 📫 Mail me **mugundhjb@gmail.com**
