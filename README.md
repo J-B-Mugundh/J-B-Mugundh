@@ -2,11 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 </p>
 
-<!-- <p>
-<img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
-</p> -->
-
-
 <h4 align="center">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mugundh J B 😄</h4>
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Madras Institute of Technology</h4>
 <br>
@@ -78,7 +73,7 @@
 <br>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/J-B-Mugundh#Tech%20Skills">
-		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=J-B-Mugundh&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,TypeScript&bg=grey">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=J-B-Mugundh&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C%2B%2B,C%23,Java,Python,HTML,CSS,JavaScript,Jupyter%20Notebook,PHP,TypeScript&bg=grey">
 	</a>
 </p>
 
@@ -102,12 +97,6 @@
 <a href="https://www.github.com/J-B-Mugundh" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br>   
 </p>
 
-
-<!-- <p align="left">
-<a href="https://linkedin.com/in/mugundhjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mugundhjb" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mugundhjb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mugundhjb" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_j_b_mugundh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_j_b_mugundh_" height="30" width="40" /></a>
-</p> -->
 
 
 
