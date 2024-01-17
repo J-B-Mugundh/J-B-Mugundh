@@ -85,6 +85,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJ-B-Mugundh10%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
+<p align="center">
+  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/ocean.gif" alt="snake">
+</p>
+
+
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
