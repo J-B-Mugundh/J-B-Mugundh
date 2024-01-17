@@ -86,7 +86,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/ocean.gif" alt="snake">
+  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
 </p>
 
 
