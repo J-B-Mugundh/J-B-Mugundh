@@ -70,7 +70,7 @@
 
 <div align="center"><img src="https://streak-stats.demolab.com?user=J-B-Mugundh&theme=radical" alt="GitHub Streak" /></div>
 
-<br>
+<!-- <br>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/J-B-Mugundh#Tech%20Skills">
 		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=J-B-Mugundh&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C%2B%2B,C%23,Java,Python,HTML,CSS,JavaScript,Jupyter%20Notebook,PHP,TypeScript&bg=grey">
@@ -78,7 +78,7 @@
 </p>
 
 </div>
-
+-->
 <br><br>
 
 <p align="center"><b>Profile Views</b></p>
