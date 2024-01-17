@@ -23,7 +23,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=blue&color_dots=#00FF00,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&palette=github-dark
+            dist/ocean.gif?color_snake=red&palette=github-dark&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - run: git status
 
