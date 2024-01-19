@@ -9,12 +9,12 @@
 <br><br>
 <h4 align="center">Hello world <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30"> I'm Mugundh J B 😄</h4>
 <h4 align="center">A Pre-Final Year Student pursuing B E Computer Science and Engineering at Madras Institute of Technology</h4>
-<br>
+<br><br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Web+Developer;ML+Noob;Cricket+Addict;Anime+Lover;&center=true&width=500&height=60"></a>
 </p>
 
-<img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="coding" height="312" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
 - 🔭 I’m currently working on **MERN Projects**
