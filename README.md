@@ -74,6 +74,9 @@
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJ-B-Mugundh10%7D/count.svg" alt="visitor badge"/></p>
 <br>
+<!-- <div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=J-B-Mugundh&style=for-the-badge&color=orange" alt=""/>
+</div> -->
 
 <p align="center">
   <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
@@ -93,6 +96,8 @@
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+
 
 
 
