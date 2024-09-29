@@ -71,6 +71,10 @@
 
 <br><br>
 
+[![An image of @jbmugundh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jbmugundh)](https://holopin.io/@jbmugundh)
+
+<br><br>
+
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BJ-B-Mugundh10%7D/count.svg" alt="visitor badge"/></p>
 <br>
