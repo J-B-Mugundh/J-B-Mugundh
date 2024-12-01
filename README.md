@@ -72,7 +72,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=j-b-mugundh&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="manikumarreddyu"" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=j-b-mugundh&layout=compact&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="github-contributor-stats"" />
 </p>
 
 <br><br>
